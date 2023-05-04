@@ -1,4 +1,4 @@
-# AR Art Attractors
+# AR Art
 
 ![AppIcon](https://user-images.githubusercontent.com/66309582/169184025-28376a03-abc9-41b1-b6ad-5b0431be6e78.png)
 
